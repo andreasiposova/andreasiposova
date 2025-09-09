@@ -4,7 +4,7 @@ I am an AI Researcher & Engineer passionate about AI security.
 
 #### :books: [Articles](https://scholar.google.com/citations?user=-j4ciq8AAAAJ&hl=en)
 
-#### :mortar_board: [M.Sc Thesis on Data Exfiltration Attacks & Defenses in Neural Netowrks](https://doi.org/10.34726/hss.2023.92803))
+#### :mortar_board: [M.Sc Thesis on Data Exfiltration Attacks & Defenses in Neural Networks](https://doi.org/10.34726/hss.2023.92803)
 
 #### :dart: [Projects, Presentations, Blog Posts](https://andreasiposova.github.io/)
 
