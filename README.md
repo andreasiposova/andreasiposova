@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andreasiposova&theme=discord&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C))](https://github.com/ryo-ma/github-profile-trophy) 
 
-![](https://komarev.com/ghpvc/?username=andreasiposova)
+![](https://komarev.com/ghpvc/?username=andreasiposova&style=pixel)
