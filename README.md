@@ -2,12 +2,13 @@
 I am an AI Researcher & Engineer passionate about AI security.
 
 
-
-#### :dart: [Projects, Presentations, Blog Posts](https://andreasiposova.github.io/)
-
 #### :books: [Articles](https://scholar.google.com/citations?user=-j4ciq8AAAAJ&hl=en)
 
 #### :mortar_board: [M.Sc Thesis on Data Exfiltration Attacks & Defenses in Neural Netowrks](https://doi.org/10.34726/hss.2023.92803))
+
+#### :dart: [Projects, Presentations, Blog Posts](https://andreasiposova.github.io/)
+
+
 
 <!--
 **andreasiposova/andreasiposova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
