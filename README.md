@@ -1,9 +1,11 @@
 ## Hi there 👋 I'm Andrea!
-I am an AI Researcher & Developer passionate about AI security.
+I am an AI Researcher & Engineer passionate about AI security.
 
-#### :books: [Publications](https://scholar.google.com/citations?user=-j4ciq8AAAAJ&hl=en)
+
 
 #### :dart: [Projects, Presentations, Blog Posts](https://andreasiposova.github.io/)
+
+#### :books: [Articles](https://scholar.google.com/citations?user=-j4ciq8AAAAJ&hl=en)
 
 #### :mortar_board: [M.Sc Thesis on Data Exfiltration Attacks & Defenses in Neural Netowrks](https://doi.org/10.34726/hss.2023.92803))
 
@@ -20,8 +22,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andreasiposova&count_private=true&show_icons=true&theme=tokyonight)
+
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andreasiposova&theme=discord&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C))](https://github.com/ryo-ma/github-profile-trophy) 
 
