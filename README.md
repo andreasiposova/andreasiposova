@@ -1,5 +1,12 @@
 ## Hi there 👋 I'm Andrea!
 I am an AI Researcher & Developer passionate about AI security.
+
+### :books: [Publications](https://scholar.google.com/citations?user=-j4ciq8AAAAJ&hl=en)
+
+### :dart: [Projects, Presentations, Blog Posts](https://andreasiposova.github.io/)
+
+### :mortar_board: [M.Sc Thesis on Data Exfiltration Attacks & Defenses in Neural Netowrks](https://doi.org/10.34726/hss.2023.92803))
+
 <!--
 **andreasiposova/andreasiposova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
